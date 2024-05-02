@@ -1,5 +1,8 @@
 # React + Vite
 
+## **Screenshoot of this game**
+![Screenshoot-game](https://github.com/novanmasriandi11/quiz-game-react/blob/master/public/Capture-1.PNG)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
